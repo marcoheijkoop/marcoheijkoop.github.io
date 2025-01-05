@@ -15,12 +15,12 @@ platforms:
     link: "https://t.me/share/url?url=URL&text=TITLE"
 
   - type: Bluesky
-     icon: "fa-brands fa-bluesky"
-     link: "https://bsky.app/intent/compose?text=TITLE%20URL"
+    icon: "fa-brands fa-bluesky"
+    link: "https://bsky.app/intent/compose?text=TITLE%20URL"
 
   - type: Linkedin
-     icon: "fab fa-linkedin"
-     link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
+    icon: "fab fa-linkedin"
+    link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
   # Uncomment below if you need to.
   #
   # - type: Linkedin
