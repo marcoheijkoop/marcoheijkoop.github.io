@@ -1,0 +1,79 @@
+---
+layout: none
+permalink: .well-known/keybase.txt
+---
+==================================================================
+https://keybase.io/marcoheijkoop
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://marcoheijkoop.nl
+  * I am marcoheijkoop (https://keybase.io/marcoheijkoop) on keybase.
+  * I have a public key with fingerprint D6E2 74F1 0D1B 7A70 F710  08F5 C2C9 42AE 0407 5D5C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f789488a723ce6d17ef642c86735e8f5754848ba231d8cb20d242f1eeb53932a0a",
+      "fingerprint": "d6e274f10d1b7a70f71008f5c2c942ae04075d5c",
+      "host": "keybase.io",
+      "key_id": "c2c942ae04075d5c",
+      "kid": "0101f789488a723ce6d17ef642c86735e8f5754848ba231d8cb20d242f1eeb53932a0a",
+      "uid": "5ce58afd7af7eaea4fe59fcdaa9bd819",
+      "username": "marcoheijkoop"
+    },
+    "service": {
+      "hostname": "marcoheijkoop.nl",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1736284279,
+  "expire_in": 157680000,
+  "prev": "1f14be8cb534e4b05c85ce6e4be8c80079560ac17c3773da3434ebb5a2eb815a",
+  "seqno": 136,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNCAnicrZJtUFRVGIAXMAUGBgaQYWyiuFRCc4H7fe8uYyZDkRQxoxM5DrDdj3Ph
+usveZe/uIhLImELrqiisULkiAWYiYKJlH+MsyyCVVjoybTpoI+yAwRSZBlgadi9T
+//zZ+XPmvOd5n/O+75zh6DBdZMjQNzn9y1aUFIdc9Hc6dGW171bVQJwsVEOGGsgE
+ljZgFoBiN5okATJACIqgIs3oCYZhaQznASWgNBApAuMZisZJwIgkTRIMwXAshqMC
+w3MYImAEJqIAcCSuxzEWYSEYEiVLGbBZbZLFrmoFCmA0IaKIgHI0SyMijSKIquIx
+Xk9gLEAIhCYFklcTy2VFy1CL41gFZEqyGlMPxqXyHsH/z3U7lnQkD0iGFQWaFWnA
+ApYQAakXeYFl9ZzAoHoNVIDNwlYAla5gbbxcDqQtJlm2QrUwpF45JR5o09XaeRSW
+aTGrEqtNtsu8bFZvy+12q2LQsu3VVg2vApzxX5GRkyyCOlA1wwlsiiRbIAOqkrxd
+0swojVMYQ2C0HobAVqtkA0ZJI0iaYhB1ae8Ap6pERZTggNo7iROA4BCSZ9ROKbAU
+VFFaT1IIy6M0j9M0LrA4oXIcR7IY4BiU1OajgEqLrLpxSi2ULVOlilRmYe0OG4Bq
+h/zFy3Qhkbrlj4VqX00XGRH73wf018fqPn7QgU4aYuvd6RZPuwVOy97r82Z9GHxv
+Np8L7h9xzcupzen0zLfGI6UfnbwxBrUgL2Qf3uwbmm/0PkSJogldw+GMd7w/BfYl
+HutztTsmtg+UBAvjArl/ml553JdStXPPYJznft6Yi42ZjrnTYh+u3/DW2/PJZ2zf
+E+svMauVg/rWujNb17blVzQ3PLPjx5j15nvPdyy/8t3Z4F8Ft8xZEZnxCynu8BbX
+y1ZQ2PwrvPH1ytNP5+7q/nLlhuGpoHXA1dNfFHr31ejfj5w/+elvmaUjjpm+q23n
+4J5fruUlddpfqj+U1vHk5FNHvRmTF+8HsxIi+nMOHCy7VOduoz/pZ6BNKVye74eB
+PcHZhSdKB2biB/v97xspT+Vc+GJXzc2pWGfGmzvCm7uip1f+ETW/PS2iydn+4N5u
+q9QUGL18aiEiyXuiwe0e+aDQFHoh5xrStelnx9zp11aFPFuwS+k+NMzVHW3t3Nt3
+7HqCPzgwvKpgND0MPnvqi6YLeEuIfvLWGmzx+sLitt7Pbnz9RvTo9HnDWiSQREV5
+mgLjzx1PHq9flxuWlOjriSs54bZdNuenjk3kNydc2eJM2WxqLO6dhZEDn/NwWOV4
+VLU3fvXgxuOeRnj/udbE3dlTs3dTqxd74aGvCq+uSdnWzt5MTto51x16mw8U+eL/
+zn7Rf+f2wxnX9DplllmR+A8Spcwo
+=/GBY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marcoheijkoop
+
+==================================================================
+

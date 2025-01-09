@@ -1,0 +1,10 @@
+---
+layout: none
+permalink: .well-known/security.txt
+---
+
+Contact: mailto:marco.heijkoop@gmail.com
+Expires: 2025-12-31T23:00:00.000Z
+Encryption: https://marcoheijkoop.nl/keybase.txt
+Preferred-Languages: en,nl
+Canonical: https://marcoheijkoop.nl/.well-known/security.txt
