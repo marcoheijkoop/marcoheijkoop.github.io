@@ -3,8 +3,11 @@ layout: none
 permalink: .well-known/security.txt
 ---
 
-Contact: mailto:marco.heijkoop@gmail.com
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: https://marcoheijkoop.nl/contact
 Expires: 2025-12-31T23:00:00.000Z
-Encryption: https://marcoheijkoop.nl/keybase.txt
+Encryption: https://marcoheijkoop.nl/gpg.asc
 Preferred-Languages: en,nl
 Canonical: https://marcoheijkoop.nl/.well-known/security.txt
