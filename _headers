@@ -1,10 +1,10 @@
 /*
 Referrer-Policy: no-referrer
 /*
-x-Conten-Type-Options: nosniff
+x-Content-Type-Options: nosniff
 /*
-Content-security-policy: default-src 'unsafe-inline' https: 'self' data:; upgrade-insecure-requests; frame-ancestors 'self'
+x-Content-Security-Policy: default-src 'unsafe-inline' https: 'self' data:; upgrade-insecure-requests; frame-ancestors 'self'
 /*
-x-frame-options: SAMEORIGIN
+x-Frame-Options: SAMEORIGIN
 /*
-x-xss-protection: 1; mode=block
+x-XSS-Protection: 1; mode=block
