@@ -3,8 +3,19 @@ layout: none
 permalink: .well-known/security.txt
 ---
 
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+
 Contact: https://marcoheijkoop.nl/contact
 Expires: 2027-06-30T22:00:00.000Z
 Encryption: https://marcoheijkoop.nl/gpg.asc
 Preferred-Languages: en,nl
 Canonical: https://marcoheijkoop.nl/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQo2dHvdfHkLipp3VXoNeEWFRLGFgUCakbJkQAKCRDoNeEWFRLG
+Fh02AP0cUdPx812F7Y6loYH9EL7RaWwnalZOb4i8Rrpl8CvQIgD6AtugkEIeRwbS
+iqeHGfJoMOLtnuMx+ozQFymPFOy9PQ8=
+=UY1i
+-----END PGP SIGNATURE-----
