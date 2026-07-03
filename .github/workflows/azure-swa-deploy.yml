@@ -43,6 +43,9 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
+      - name: Remove generator meta tag
+        run: find _site -name "*.html" -exec sed -i 's/<meta name="generator" content="[^"]*" \/>//g' {} +
+
       - name: Test site
         run: |
           bundle exec htmlproofer _site \
